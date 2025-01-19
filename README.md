@@ -3,17 +3,16 @@ ExpressUI v3.0以后不再开源！
 链接：https://github.com/XxxZilexxX/ExpressUI
 在遵从Apache-2.0协议和NonCommercial4.0协议的情况下您可以继承和使用这些版本！
 
-3.0以后部分代码基于浅色UI开发
-因此你可以将该UI看为浅色UI的续作
+3.0以后部分代码基于LightUI开发
+因此你可以将该UI看为LightUI的续作
 已获得原作者噬空的授权
 
-感谢您使用ExpressUI v3.1
-这是我的第一个UI包，希望你喜欢！
-作者：子乐QQ2308348137
-类型：UI
-怎么去？
+Thanks for you using ExpressUI
+This is my first UI Pack.Hope you like it!
+Author：Zile QQ2308348137
+Type：UI
+如何获取？
 QQ群：942870300
-公用UI包
 
 若你是通过其他群聊获取 请添加官方群聊 :)
 ExpressUI目前不支持制作付费端也无法授权
@@ -36,5 +35,4 @@ ExpressUI、ExpressUI开发者与我的世界游戏开发商Mojang工作室及�
 6.你不得未经许可使用ExpressUI中的任何代码
 7.你对ExpressUI只有使用权，没有所有权
 以上内容最终解释权归QQ2308348137所有
-
-自乐制作
+Made by Zile
