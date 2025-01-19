@@ -1,63 +1,40 @@
-hotbar by ShiKong
-pause by internet
-setting by ShiKong
+ExpressUI v3.0以后不再开源！
+目前ExpressUI v3.0及以前未丢失版本已开源：
+链接：https://github.com/XxxZilexxX/ExpressUI
+在遵从Apache-2.0协议和NonCommercial4.0协议的情况下您可以继承和使用这些版本！
 
-欢迎使用ExpressUI v2.5
-这是我的第一个正式UI项目 不喜勿喷
+3.0以后部分代码基于浅色UI开发
+因此你可以将该UI看为浅色UI的续作
+已获得原作者噬空的授权
 
-作者qq:2308348137
-ExpressUI v2.5以后不再开源！
-目前ExpressUI已开源：
-Link：https://github.com/XxxZilexxX/ExpressUI
-在遵从 Apache-2.0 协议和 NonCommercial 4.0协议的情况下 您可以继承和使用这个项目！
+感谢您使用ExpressUI v3.1
+这是我的第一个UI包，希望你喜欢！
+作者：子乐QQ2308348137
+类型：UI
+怎么去？
+QQ群：942870300
+公用UI包
 
-你可以修改所有json内的offset位置以及size大小来适配你的移动设备大小尺寸
-你不能未经授权擅自二改它
-你不能未经授权将二改后的文件发布至互联网
-你不能未经授权将本UI包放入进你的客户端
-你不能未经授权擅自外传它以及本UI包中的任何内容
-你不能未经允许使用本UI包给其他人定制客户端
+若你是通过其他群聊获取 请添加官方群聊 :)
+ExpressUI目前不支持制作付费端也无法授权
 
-更新日志
-1.0
-[+]Progress
-[+]Chat
-[+]Edit
-[+]hud_screen.json
-[+]_global_variables.json
+# **声明**：
 
-1.1
-[+]_global_variables.json
+本作品ExpressUI（以下称为“资源包”）
+包括但不限于图形、设计、文字、代码和其他版权材料，均受到国际版权法的保护。 未经版权所有者的明确书面授权，不得复制、分发、修改、展示或以任何形式在未授权的情况下使用本作品。
 
-1.2
-[fix]Progress
-[fix]Container text layer
-[+]Progress_text
-[+]_global_variables.json
-
-1.3
-[+]Setting by ShiKong
-[+]Pause by internet
-
-2.0
-[+]Welcome
-[fix]Watermark
-
-2.1
-[fix]Welcome
-
-2.2
-[fix]Watermark
-
-2.3
-[fix]WelcomeBackground
-[fix]Progress text offset
-
-2.4
-[+]Pause title
-
-2.5
-[+]Hotbar
+ExpressUI是一款由个人开发面向国际版我的世界设计的资源包，ExpressUI不支持我的世界游戏开发商Mojang工作室在中国大陆代理公司运营的“我的世界”且ExpressUI不为该国内代理版本提供任何相关功能，所有用户的相关行为均有个人负责，与ExpressUI开发者无关。根据《中华人民共和国著作权法》、《计算机软件保护条例》及《计算机软件著作权登记办法》的规定，ExpressUI开发者作为ExpressUI的唯一著作权人，依法享有对ExpressUI资源包的法律保护。ExpressUI中不包含任何我的世界游戏（或国内代理版本）的代码，亦不包含来自Mojang工作室或其在中国大陆代理公司编写的代码。
+本资源包包含了ExpressUI的最新功能，这些功能的著作权均为ExpressUI开发者所有，本资源包中并未包含任何来自Mojang工作室及其在中国大陆代理公司所有的内容。
+ExpressUI、ExpressUI开发者与我的世界游戏开发商Mojang工作室及其在中国大陆的代理公司无任何关联。
 
 
-Made by XxxZilexxX
+1.你不得以除GitHub和QQ群以外的地方下载ExpressUI
+2.你不得未经许可将ExpressUI作为任何产品的组成部分进行销售或分发
+3.你不得未经许可删除ExpressUI的版权文件
+4.你不得未经许可将ExpressUI用于任何项目中
+5.你不得未经许可对ExpressUI进行任何修改
+6.你不得未经许可使用ExpressUI中的任何代码
+7.你对ExpressUI只有使用权，没有所有权
+以上内容最终解释权归QQ2308348137所有
+
+自乐制作
